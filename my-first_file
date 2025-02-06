@@ -12,3 +12,11 @@
     cout << "Enter second number: ";
     cin >> num2;
     sum = num1 - num2;
+// Perform multiplication
+    int num1, num2, milti;
+    cout << "Enter first number: ";
+    cin >> num1;
+    cout << "Enter second number: ";
+    cin >> num2;
+    multi = num1 * num2;
+
